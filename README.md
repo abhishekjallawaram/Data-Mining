@@ -24,7 +24,24 @@ Your task is to preprocess the dataset, apply a feature selection or reduction t
 
 # Drug Activity Analysis - Adaboost from Scratch
 
-Implementation of Adaboost from Scratch for the above defined Problem scenario
+Problem Scenario: Predictive Model for Compound Activity Classification using Adaboost
+
+In this problem scenario, you are tasked with developing a predictive model that can determine whether a particular compound is active (1) or not (0). The compounds in question are small organic molecules that achieve their desired activity by binding to a target site on a receptor.
+
+Your objective is to build an effective binary classification model using the Adaboost algorithm. Adaboost is an ensemble learning method that combines multiple weak classifiers to create a strong classifier. By iteratively adjusting the weights of the training samples, Adaboost focuses on misclassified instances and improves the overall classification performance.
+
+Key Objectives:
+
+1) Feature Selection/Reduction: Implement a feature selection or reduction technique to handle the large number of binary features representing the topological shapes and characteristics of the compounds. This step aims to select the most informative and relevant features that contribute to the compound activity classification.
+
+2) Dealing with Imbalanced Data: Address the issue of imbalanced data in the dataset. Since the dataset is likely to have a higher number of inactive compounds compared to active ones, the class distribution is imbalanced. Implement techniques such as oversampling, undersampling, or class weighting to handle this imbalance and prevent biased model training.
+
+3) F1 Scoring Metric: As the dataset is imbalanced, the F1-score will be used as the scoring metric instead of accuracy. The F1-score considers both precision and recall, making it suitable for imbalanced classification tasks. Optimize your model to maximize the F1-score, ensuring a balanced trade-off between precision and recall.
+
+4) Implement Adaboost from Scratch: Implement the Adaboost algorithm from scratch. This involves writing code to train the weak classifiers, calculate the sample weights, and perform the iterative boosting process. By implementing Adaboost yourself, you will gain a deeper understanding of its inner workings and how it can be customized for the compound activity classification task.
+
+Task:
+Through this problem scenario, you will develop a predictive model for compound activity classification using the Adaboost algorithm. By implementing feature selection/reduction techniques, experimenting with different classification models, addressing data imbalance, and optimizing for the F1-score, you aim to build an accurate and robust model. Additionally, by implementing Adaboost from scratch, you will enhance your understanding of ensemble learning methods and their application in classification tasks.
 
 ***************************
 
