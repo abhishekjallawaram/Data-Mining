@@ -1,0 +1,34 @@
+Name : Abhishek Jallawaram
+mailid : ajallawa@gmu.edu
+GMU ID : G01373042
+NetID : ajallawa
+Miner Username : Ragnarok7417
+Recent Submission : 0.95 (Iris)
+Recent Submission : 0.76 (Image)
+
+******************************
+
+Requirement.txt containts the packages required
+
+File generated from Google Colab. The .py file can be run in any python IDE.
+
+KMeans (code from scratch)
+KMedoids (code from scratch)
+umap (Non-Linear Dimensionality Reduction) : !pip install umap-learn
+t-sne (Non-Linear Dimensionality Reduction)
+
+Proximity Metrics:
+Euclidean (Image)
+Manhattan
+
+Similarity Metrics:
+Cosine (Iris)
+*************************
+
+Report name : HW4_ajallawa_report.pdf
+
+*******************************
+Kindly install umap-learn for part-II
+
+Part-I : iris_k_means.py
+Part-II : image_k_means.py

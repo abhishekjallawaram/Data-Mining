@@ -1,0 +1,29 @@
+Name : Abhishek Jallawaram
+mailid : ajallawa@gmu.edu
+GMU ID : G01373042
+NetID : ajallawa
+Miner Username : Ragnarok7417
+Recent Submission : 0.70
+Recent Submission rank : 100
+
+******************************
+
+Requirement.txt containts the packages required
+
+File generated from Google Colab. The .py file can be run in any python IDE.
+
+Classifiers
+Logistic Regression (sklearn)
+Decision Tree(sklearn)
+
+Cross validation perfromed
+Train_Test_split performed
+
+*************************
+
+Report name : CS_584___Drug_Activity_Prediction_Adaboost.pdf
+
+*******************************
+Metrics for different iterations of Adaboost Algorithm
+DT_Adaboost
+DT_Adaboost1
